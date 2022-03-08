@@ -1,2 +1,2 @@
-# Bitcoin-Twitter Senitment Analysis Project
+# Bitcoin Twitter Sentiment Analysis Project
  
